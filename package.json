@@ -5,7 +5,7 @@
 	},
 	"author":"Fizzah Amir",
 	"description":"my first backend project",
-	"keywords":["technical","proffesionsal","effieicent"]
+	"keywords":["technical","proffesionsal","effieicent"],
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js"
