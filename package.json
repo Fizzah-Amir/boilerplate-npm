@@ -3,7 +3,7 @@
 	"dependencies": {
 		"package-name":"version",
 		"express":"4.14.0",
-		"@freecodecamp.example":"~1.2.13"
+		"@freecodecamp.example":"^1.2.13"
 
 	},
 	"author":"Fizzah Amir",
@@ -11,7 +11,7 @@
 	"keywords":["technical","proffesionsal","effieicent"],
 	"main": "server.js",
 	"license":"MIT",
-	"version":"1.2.13",
+	"version":"^1.2.13",
 	"scripts": {
 		"start": "node server.js"
 	},
